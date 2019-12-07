@@ -1,5 +1,5 @@
-% Serial Signal Plotter
-% Developed by Mehdi0xC, April 2018
+% Signal Generator
+% Developed by Mehdi0xC
 MU = [1 2;-3 -5];
 SIGMA = cat(3,[2 0;0 .5],[1 0;0 1]);
 p = ones(1,2)/2;
