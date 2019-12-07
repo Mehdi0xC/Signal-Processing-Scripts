@@ -1,5 +1,5 @@
 % Gaussian Denoising
-% Developed by Mehdi0xC (Based n Mike X Cohen Signal Processing Course)
+% Developed by Mehdi0xC (Based on Mike X Cohen Signal Processing Course)
 
 % create signal
 srate = 1000; % Hz
