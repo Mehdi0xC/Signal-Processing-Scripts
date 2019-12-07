@@ -1,5 +1,5 @@
 % Mean Denoing
-% Developed by Mehdi0xC (Based n Mike X Cohen Signal Processing Course)
+% Developed by Mehdi0xC (Based on Mike X Cohen Signal Processing Course)
 
 % load in birdcall (source: https://www.xeno-canto.org/403881)
 [bc,fs] = audioread('XC403881.mp3');
