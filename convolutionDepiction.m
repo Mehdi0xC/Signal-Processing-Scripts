@@ -1,4 +1,4 @@
-% Gaussian Denoising
+% Depiction of Convolution Operation
 % Developed by Mehdi0xC (Based on Mike X Cohen Signal Processing Course)
 
 % Signal definition
