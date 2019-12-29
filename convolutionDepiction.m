@@ -1,8 +1,7 @@
-signal = [ zeros(1,30) ones(1,2) zeros(1,20) ones(1,30) 2*ones(1,10) zeros(1,30) -ones(1,10) zeros(1,40) ];
-kernel = [0,0,0,1,1,1,0,0,0];
-kernel = kernel./sum(kernel);
+% Gaussian Denoising
+% Developed by Mehdi0xC (Based on Mike X Cohen Signal Processing Course)
 
-% signal
+% Signal definition
 signal = zeros(1,20);
 signal(8:15) = 1;
 
