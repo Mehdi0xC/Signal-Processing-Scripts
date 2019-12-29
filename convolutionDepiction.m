@@ -84,4 +84,3 @@ for ti=half_kern+1:nConv-half_kern
 
 % cut off edges
 % conv_res = conv_res(half_kern+1:end-half_kern);
-
